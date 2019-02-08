@@ -542,3 +542,7 @@ ASALocalRun/
 healthchecksdb
 
 # End of https://www.gitignore.io/api/macos,linux,python,windows,visualstudio,visualstudiocode
+
+output
+
+.vscode
